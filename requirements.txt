@@ -3,6 +3,7 @@ decorator==4.0.10
 docutils==0.12
 entrypoints==0.2.2
 feedgenerator==1.9
+ghp-import==0.4.1
 ipykernel==4.5.1
 ipython==5.1.0
 ipython-genutils==0.1.0
