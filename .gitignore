@@ -88,4 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Others
 themes/desbravandodjango-theme-dev
+output/feeds/all.atom.xml
