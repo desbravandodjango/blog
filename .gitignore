@@ -90,4 +90,4 @@ ENV/
 
 # Others
 themes/desbravandodjango-theme-dev
-output/feeds/all.atom.xml
+output/
