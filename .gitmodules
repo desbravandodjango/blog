@@ -1,0 +1,6 @@
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:getpelican/pelican-plugins.git
+[submodule "themes/desbravandodjango-theme"]
+	path = themes/desbravandodjango-theme
+	url = git@github.com:desbravandodjango/desbravandodjango-theme.git
